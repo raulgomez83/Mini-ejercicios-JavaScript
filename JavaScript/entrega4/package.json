@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/raulgomez83/entrega4#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.27.10"
   }
 }
